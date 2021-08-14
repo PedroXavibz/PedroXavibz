@@ -11,7 +11,7 @@
 <ul>
   <li>Web development.</li>
   <li>Game development.</li>
-  <li>YouTube/Twitch..</li
+  <li>YouTube/Twitch.</li
 </ul> 
   
 <h4>💬 Reach me by email or LinkedIn! joao.pedro.xavibz@gmail.com | https://www.linkedin.com/in/joão-pedro-45ab4a212/</h4>
