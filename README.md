@@ -1,16 +1,20 @@
-### Hi there 👋
-My name is Pedro and I'm learning about web development, front and back end.
+<h2>Hi there 👋</h2>
+<p>My name is Pedro and I'm learning about web development, front and back end.</p>
 
-🔭 Current projects: 
-  E-commerce (Mongo DB, Express, Angular, NodeJS). 
-  Chat-online (ReactJS, NodeJS, Socket.IO).
+<h4>🔭 Current projects:</h4>
+<ul>
+  <li>E-commerce (Mongo DB, Express, Angular, NodeJS).</li>
+  <li>Chat-online (ReactJS, NodeJS, Socket.IO).</li>
+</ul>
 
-🌱 Interests: 
-  Web development. 
-  Gamming. 
-  YouTube/Twitch. 
+<h4>🌱 Interests:</h4>
+<ul>
+  <li>Web development.</li>
+  <li>Game development.</li>
+  <li>YouTube/Twitch..</li
+</ul> 
   
-  💬 Reach me by email or LinkedIn! joao.pedro.xavibz@gmail.com | https://www.linkedin.com/in/joão-pedro-45ab4a212/
+<h4>💬 Reach me by email or LinkedIn! joao.pedro.xavibz@gmail.com | https://www.linkedin.com/in/joão-pedro-45ab4a212/</h4>
 
 <!--
 **PedroXavibz/PedroXavibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
