@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Pedro and I'm learning about web development, front and back end.
+<p>My name is Pedro and I'm learning about web development, front and back end</p>
  <div>
   <a href="https://github.com/PedroXavibz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroxavibz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
