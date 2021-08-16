@@ -24,15 +24,15 @@
 </div>
   
 ## 🔭 Current projects:
-<div>
-  <p>E-commerce (Mongo DB, Express, Angular, NodeJS)</p>
-  <p>Chat-online (ReactJS, NodeJS, Socket.IO)</p>
-</div>
+<ul>
+  <li>E-commerce (Mongo DB, Express, Angular, NodeJS)</li>
+  <li>Chat-online (ReactJS, NodeJS, Socket.IO)</li>
+</ul>
   
 ## 🌱 Interests:
-<div>
-  <p>Web development 🌎</p>
-  <p>Game development 🕹</p>
-  <p>YouTube/Twitch 🎥</p>
-</div>
+<ul>
+  <li>Web development 🌎</li>
+  <li>Game development 🕹</li>
+  <li>YouTube/Twitch 🎥</li>
+</ul>
  
