@@ -31,8 +31,8 @@
   
 ## 🌱 Interests:
 <div>
-  <p>Web development</p>
-  <p>Game development</p>
-  <p>YouTube/Twitch</p>
+  <p>Web development 🌎</p>
+  <p>Game development 🕹</p>
+  <p>YouTube/Twitch 🎥</p>
 </div>
  
