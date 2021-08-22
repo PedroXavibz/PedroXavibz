@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>My name is Pedro and I'm learning about web development, front and back end</p>
+<p>My name is Pedro and I'm learning about front and back end web development, I like to explore new technologies</p>
  <div>
   <a href="https://github.com/PedroXavibz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroxavibz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,13 +16,6 @@
   <img align="center" alt="Pedro-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
-  ##
-  
-<div> 
-  <a href = "mailto:joao.pedro.xavibz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-pedro-45ab4a212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-  
 ## 🔭 Current projects:
 <ul>
   <li>E-commerce (Mongo DB, Express, Angular, NodeJS)</li>
@@ -30,9 +23,18 @@
 </ul>
   
 ## 🌱 Interests:
-<ul>
-  <li>Web development 🌎</li>
-  <li>Game development 🕹</li>
-  <li>YouTube/Twitch 🎥</li>
-</ul>
+<div> 
+ <ul>
+   <li>Web development 🌎</li>
+   <li>Game development 🕹</li>
+   <li>YouTube/Twitch 🎥</li>
+ </ul>
+</div>
+ 
+  
+<div> 
+ <h2>Contact me 📧</h2>
+  <a href = "mailto:joao.pedro.xavibz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-45ab4a212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
  
