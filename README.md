@@ -1,10 +1,5 @@
 ## Hi there 👋
 <p>My name is Pedro and I'm learning about front and back end web development, I like to explore new technologies</p>
- <div>
-  <a href="https://github.com/PedroXavibz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroxavibz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxavibz&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +13,8 @@
   
 ## 🔭 Current projects:
 <ul>
-  <li>E-commerce (Mongo DB, Express, Angular, NodeJS)</li>
-  <li>Chat-online (ReactJS, NodeJS, Socket.IO)</li>
+  <li>E-commerce (NodeJS, Mongo DB, Express, Angular, GraphQL)</li>
+  <li>Chat-online (NodeJS, Mongo DB, Express, NextJS, Typescript, Redux, Socket.IO)</li>
 </ul>
   
 ## 🌱 Interests:
